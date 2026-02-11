@@ -91,7 +91,7 @@ async function searchClient() {
   let ccl = 0;
   if (!isNaN(email)) {
     ccl = parseInt(email) || 0;
-    if (ccl <= 0 || ccl > 999999) {
+    if (ccl <= 0 || ccl > 99999999) {
       alert("Veuillez saisir un no de client valide !");
       return;
     }

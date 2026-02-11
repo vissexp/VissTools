@@ -1,4 +1,4 @@
-# VissTools 1.10.1
+# VissTools 1.11.0
 
 Une extension pour Google Chrome comportant des outils de suivi de commande et de recherche d'information clients et produits pour le service client de Visserie Service
 
