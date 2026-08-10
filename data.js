@@ -25,25 +25,25 @@ export const shopList = [
   { 
     id: 4, 
     url: "https://www.vis-express.be", 
-    admin: "backoffice", 
+    admin: "adminXPi7ChQvw96prU/", 
     flag: "" 
   },
   {
     id: 6,
     url: "https://www.screw-express.com",
-    admin: "backoffice",
+    admin: "adminecBQoZx8UPJgZk/",
     flag: "",
   },
   {
     id: 7,
     url: "https://www.schroeven-express.nl",
-    admin: "backoffice",
+    admin: "adminFdvjV89nyAWH6B/",
     flag: "",
   },
   { 
     id: 8, 
     url: "https://www.skrue-ekspres.dk", 
-    admin: "backoffice", 
+    admin: "adminA3JDcFftdBi6g5", 
     flag: "" },
   {
     id: 9,
@@ -54,13 +54,13 @@ export const shopList = [
   {
     id: 10,
     url: "https://www.tornillos-express.es",
-    admin: "backoffice",
+    admin: "adminyjDDAqDDdT7rfpx4/",
     flag: "",
   },
   { 
     id: 11, 
     url: "https://www.viti-presto.it", 
-    admin: "backoffice", 
+    admin: "adminkx7N7p3qGEutAP22/", 
     flag: "" 
   },
   {
@@ -77,4 +77,4 @@ export const shopList = [
   }
 ];
 
-export const version = "1.11.0";
+export const version = "1.11.1";

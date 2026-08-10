@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.11.1] - 2026-08-10
+
+- Change back-office URLs
+
 ## [1.11.0] - 2026-02-11
 
 - Change client number validation to allow up to 99999999

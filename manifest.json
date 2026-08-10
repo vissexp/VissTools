@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "VissTools",
-  "version": "1.11.0",
+  "version": "1.11.1",
   "description": "Outils Visserie Service",
   "icons": {
     "32": "visserie.png",
