@@ -10,13 +10,6 @@ export const shopList = [
     flag: "",
   },
   {
-    id: 2,
-    url: "https://www.sanitaire-express.fr",
-    admin: "gestion",
-    flag: "",
-    hidden: true
-  },
-  {
     id: 3,
     url: "https://www.schrauben-express.de",
     admin: "admin405sksfts",
@@ -74,7 +67,13 @@ export const shopList = [
     url: "https://www.ruuvit-express.fi", 
     admin: "admin9191qkny7izhcaaqyrf", 
     flag: "" 
+  },
+  {
+    id: 14,
+    url: "https://www.sruba-ekspres.pl",
+    admin: "admin48651nz4vq3beifolaw",
+    flag: ""
   }
 ];
 
-export const version = "1.11.1";
+export const version = "1.12.0";
